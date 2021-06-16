@@ -76,7 +76,7 @@ Prints the following parts:
 
 With a soldering iron solder the tube socket pins and the digit separator bulbs (included in the kit).
 
-Insert the front panel on the body and make sure it is well secured by the clips on the printed part. (Image below)
+Insert the front panel on the body and make sure it is well secured by the clips on the printed part. (See them on the image below)
 
 ![](images/panels_clips.PNG)
 
