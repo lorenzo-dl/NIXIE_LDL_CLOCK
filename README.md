@@ -2,7 +2,7 @@
 
 ## description
 
-GitHub project repository:
+GitHub project repository:https://github.com/lorenzo-dl/NIXIE_LDL_CLOCK
 
 Nixie tubes are a vintage type of display that uses a glass tube filled with a low-pressure mixture of Neon and other gasses like Argon.
 
